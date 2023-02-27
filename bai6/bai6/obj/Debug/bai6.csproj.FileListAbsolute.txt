@@ -1,0 +1,7 @@
+C:\Users\TRUONG\Desktop\bai1\bai6\bai6\bin\Debug\bai6.exe.config
+C:\Users\TRUONG\Desktop\bai1\bai6\bai6\bin\Debug\bai6.exe
+C:\Users\TRUONG\Desktop\bai1\bai6\bai6\bin\Debug\bai6.pdb
+C:\Users\TRUONG\Desktop\bai1\bai6\bai6\obj\Debug\bai6.csproj.AssemblyReference.cache
+C:\Users\TRUONG\Desktop\bai1\bai6\bai6\obj\Debug\bai6.csproj.CoreCompileInputs.cache
+C:\Users\TRUONG\Desktop\bai1\bai6\bai6\obj\Debug\bai6.exe
+C:\Users\TRUONG\Desktop\bai1\bai6\bai6\obj\Debug\bai6.pdb

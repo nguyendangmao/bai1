@@ -1,0 +1,7 @@
+C:\Users\TRUONG\Desktop\bai1\bai4\bai4\bin\Debug\bai4.exe.config
+C:\Users\TRUONG\Desktop\bai1\bai4\bai4\bin\Debug\bai4.exe
+C:\Users\TRUONG\Desktop\bai1\bai4\bai4\bin\Debug\bai4.pdb
+C:\Users\TRUONG\Desktop\bai1\bai4\bai4\obj\Debug\bai4.csproj.AssemblyReference.cache
+C:\Users\TRUONG\Desktop\bai1\bai4\bai4\obj\Debug\bai4.csproj.CoreCompileInputs.cache
+C:\Users\TRUONG\Desktop\bai1\bai4\bai4\obj\Debug\bai4.exe
+C:\Users\TRUONG\Desktop\bai1\bai4\bai4\obj\Debug\bai4.pdb

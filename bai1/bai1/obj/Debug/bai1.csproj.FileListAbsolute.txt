@@ -1,0 +1,14 @@
+C:\Users\TRUONG\source\repos\bai1\bai1\bin\Debug\bai1.exe.config
+C:\Users\TRUONG\source\repos\bai1\bai1\bin\Debug\bai1.exe
+C:\Users\TRUONG\source\repos\bai1\bai1\bin\Debug\bai1.pdb
+C:\Users\TRUONG\source\repos\bai1\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+C:\Users\TRUONG\source\repos\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+C:\Users\TRUONG\source\repos\bai1\bai1\obj\Debug\bai1.exe
+C:\Users\TRUONG\source\repos\bai1\bai1\obj\Debug\bai1.pdb
+C:\Users\TRUONG\Desktop\bai1\bai1\bai1\bin\Debug\bai1.exe.config
+C:\Users\TRUONG\Desktop\bai1\bai1\bai1\bin\Debug\bai1.exe
+C:\Users\TRUONG\Desktop\bai1\bai1\bai1\bin\Debug\bai1.pdb
+C:\Users\TRUONG\Desktop\bai1\bai1\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+C:\Users\TRUONG\Desktop\bai1\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+C:\Users\TRUONG\Desktop\bai1\bai1\bai1\obj\Debug\bai1.exe
+C:\Users\TRUONG\Desktop\bai1\bai1\bai1\obj\Debug\bai1.pdb
